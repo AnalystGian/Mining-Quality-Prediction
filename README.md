@@ -2,7 +2,8 @@
 In this project, we will train machine learning and deep learning models to predict the % of Silica Concentrate in the Iron ore concentrate per minute.
 This project could be practically used in Mining Industry to get the % Silica Concentrate at a much faster rate compared to the traditional methods. 
 
-# In this hands-on project we will go through the following tasks: 
+# Project Structure
+In this hands-on project we will go through the following tasks: 
 (1) Understand the Problem Statement, 
 (2) Import libraries and datasets, 
 (3) Perform Exploratory Data Analysis, 
